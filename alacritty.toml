@@ -1,0 +1,22 @@
+import = ["/Users/ryancushen/.config/alacritty/themes/themes/challenger_deep.yaml"]
+
+[colors.primary]
+background = "#1d1f21"
+foreground = "#c5c8c6"
+
+[font.normal]
+family = "Hack Nerd Font"
+style = "Regular"
+
+[window]
+decorations = "buttonless"
+decorations_theme_variant = "None"
+dynamic_padding = true
+dynamic_title = true
+opacity = 0.8
+startup_mode = "Maximized"
+title = "Alacritty"
+
+[window.padding]
+x = 10
+y = 10

@@ -1,8 +1,4 @@
-import = ["/Users/ryancushen/.config/alacritty/themes/themes/challenger_deep.yaml"]
-
-[colors.primary]
-background = "#1d1f21"
-foreground = "#c5c8c6"
+import = ["/Users/ryancushen/.config/alacritty/themes/themes/challenger_deep.toml"]
 
 [font.normal]
 family = "Hack Nerd Font"

@@ -1,4 +1,4 @@
-import = ["/Users/ryancushen/.config/alacritty/themes/themes/challenger_deep.toml"]
+import = ["/Users/ryancushen/.config/alacritty/themes/themes/campbell.toml"]
 
 [font.normal]
 family = "Hack Nerd Font"
@@ -9,7 +9,7 @@ decorations = "buttonless"
 decorations_theme_variant = "None"
 dynamic_padding = true
 dynamic_title = true
-opacity = 0.8
+opacity = 1.0
 startup_mode = "Maximized"
 title = "Alacritty"
 

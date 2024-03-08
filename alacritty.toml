@@ -1,4 +1,4 @@
-import = ["/Users/ryancushen/.config/alacritty/themes/themes/campbell.toml"]
+import = ["/Users/ryancushen/.config/alacritty/themes/themes/rose-pine.toml"]
 
 [font.normal]
 family = "Hack Nerd Font"

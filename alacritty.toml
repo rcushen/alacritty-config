@@ -16,3 +16,8 @@ title = "Alacritty"
 [window.padding]
 x = 10
 y = 10
+
+[keyboard]
+bindings = [
+  { key = "Space", mods = "Super|Shift", action = "ToggleViMode" }
+]

@@ -1,4 +1,4 @@
-import = ["/Users/ryancushen/.config/alacritty/themes/themes/rose-pine.toml"]
+import = ["~/.config/alacritty/themes/themes/tokyo-night.toml"]
 
 [font.normal]
 family = "Hack Nerd Font"
@@ -9,7 +9,7 @@ decorations = "buttonless"
 decorations_theme_variant = "None"
 dynamic_padding = true
 dynamic_title = true
-opacity = 1.0
+opacity = 0.9
 startup_mode = "Maximized"
 title = "Alacritty"
 
